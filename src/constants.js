@@ -165,13 +165,7 @@ export const SkillsInfo = [
     
   ];
 
-  export const workexperience  = [
-    {
-      id: 0,
-      img: dsalogo,
-      role: "Solved 200+ DSA Problems",
-    }
-  ];
+ 
   export const projects = [
     {
       id: 0,
