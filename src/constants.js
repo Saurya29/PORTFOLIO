@@ -199,3 +199,15 @@ export const SkillsInfo = [
     },
     
   ];  
+  export const workexperience = [
+    {
+      id: 0,
+      title: "IntelliLift",
+      description:
+      "Built a full-stack AI-powered fitness app using Next.js, React, Tailwind,Shadcn UI, and Convex for real-time data and responsive design.Integrated Voice AI (Vapi) & Gemini LLM to deliver conversational fitness coaching, personalized workout and diet plans.",
+      image: IntelliLiftLogo,
+      tags: ["Next JS", "TailwindCSS", "React JS", "VAPI"],
+      github: "https://github.com/Saurya29/IntelliLift",
+      webapp: "https://intelli-lift.vercel.app/",
+    },
+  ];
