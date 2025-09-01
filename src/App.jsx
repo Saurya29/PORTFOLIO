@@ -25,8 +25,7 @@ const App = () => {
         <Navbar />
         <About />
         <Skills />
-        <Achievements />       {/* ✅ shows achievements */}
-        <WorkExperience />     {/* ✅ shows work experience */}
+        <Achievements />       
         <Work />
         <Education />
         <Contact />

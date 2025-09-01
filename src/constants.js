@@ -189,7 +189,7 @@ export const SkillsInfo = [
       image: LinkupLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/Saurya29/LinkUp",
-      webapp: "https://github.com/Saurya29/LinkUp",
+      webapp: "https://linkup-nmcj.onrender.com/login",
     },
     {
       id: 2,
