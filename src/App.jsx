@@ -10,7 +10,7 @@ import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import BlurBlob from "./components/BlurBlob";
 
-// ...rest of the App component
+// ...rest of the App componentA
 
 
 const App = () => {
