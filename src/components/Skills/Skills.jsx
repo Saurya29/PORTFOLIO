@@ -5,27 +5,78 @@ const Skills = () => {
   const skillCategories = [
     {
       title: "Programming Languages",
-      skills: ["Python", "C++", "SQL", "JavaScript"]
+      skills: ["Python", "C++", "JavaScript", "SQL"]
     },
     {
       title: "Machine Learning & AI",
       skills: [
-        "Scikit-learn", "TensorFlow", "PyTorch", "Pandas", "NumPy", "Matplotlib",
-        "Deep Learning", "Neural Networks", "Backpropagation", "Gradient Descent", "Adam Optimizer",
-        "NLP (certified)", "Spatio-temporal Modeling", "Supervised Learning", "Clustering", "Bayesian Methods"
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Deep Learning",
+        "Neural Networks",
+        "Supervised & Unsupervised Learning",
+        "Spatio-temporal Modeling"
       ]
     },
     {
-      title: "Web Development",
-      skills: ["React.js", "Node.js", "Express.js", "HTML", "CSS", "Tailwind CSS", "Vite", "Three.js", "MediaPipe", "REST APIs"]
+      title: "Generative AI & LLMs",
+      skills: [
+        "Retrieval Augmented Generation (RAG)",
+        "Prompt Engineering",
+        "LangChain",
+        "LangGraph",
+        "LLM Applications",
+        "Vector Databases",
+        "Semantic Search"
+      ]
     },
     {
-      title: "Databases & Tools",
-      skills: ["MongoDB", "MySQL", "Postman", "Git", "GitHub"]
+      title: "Backend & APIs",
+      skills: [
+        "Node.js",
+        "Express.js",
+        "REST API Development",
+        "API Integration"
+      ]
     },
     {
-      title: "Data & BI",
-      skills: ["Business Intelligence", "Cohort Analysis", "Data Visualization", "Power BI-style Dashboards"]
+      title: "Frontend Development",
+      skills: [
+        "React.js",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Vite",
+        "Three.js"
+      ]
+    },
+    {
+      title: "Databases",
+      skills: [
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      title: "Developer Tools",
+      skills: [
+        "Git",
+        "GitHub",
+        "Postman"
+      ]
+    },
+    {
+      title: "Data Analysis & Visualization",
+      skills: [
+        "Data Analysis",
+        "Cohort Analysis",
+        "Data Visualization",
+        "Business Intelligence"
+      ]
     }
   ];
 

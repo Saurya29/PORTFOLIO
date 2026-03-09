@@ -139,7 +139,7 @@ export const SkillsInfo = [
       img: bitLogo,
       school: "Birla Institute of Technology, Ranchi",
       date: "Nov 2022 - May 2026",
-      grade: "7.42 CGPA",
+      grade: "7.5 CGPA",
       desc: "I am pursuing my Bachelor's degree (B.Tech) in Artificial Intelligence and Machine Learning from BIT Mesra, Ranchi. At BIT, I have gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Artificial Intelligence, and Machine Learning. I have actively participated in various workshops and technical events, which have enhanced my skills and knowledge. My experience at BIT Mesra has been instrumental in shaping my technical abilities and professional growth.",
       degree: "Bachelor of Technology - B.Tech (Artificial Intelligence and Machine Learning)",
     },

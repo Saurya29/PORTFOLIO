@@ -3,20 +3,11 @@
 
 const workexperience = [
   {
-    id: 1,
-    img: "https://via.placeholder.com/64", // or use a logo
-    company: "Zopper Insurance",
-    role: "Business Intelligence Intern",
-    date: "2024",
-    desc: "Developed business intelligence solutions and data visualization dashboards.",
-    tags: ["Business Intelligence", "Data Visualization", "Power BI"],
-  },
-  {
     id: 2,
     img: "https://via.placeholder.com/64",
     company: "BIT Mesra",
     role: "Research Intern",
-    date: "2024 - Present",
+    date: "2024",
     desc: "Spatio-Temporal Deep Learning for District-Level Wheat Yield Prediction using TFT and GNNs.",
     tags: ["TFT","GNN","PyTorch","Python"],
   },
