@@ -204,15 +204,7 @@ export const SkillsInfo = [
     
   ];  
   export const workexperience = [
-    {
-      id: 1,
-      img: bitLogo, // or some other logo
-      company: "Zopper Insurance",
-      role: "Business Intelligence Intern",
-      date: "2024",
-      desc: "Developed business intelligence solutions and data visualization dashboards.",
-      tags: ["Business Intelligence", "Data Visualization", "Power BI"],
-    },
+   
     {
       id: 2,
       img: bitLogo,
