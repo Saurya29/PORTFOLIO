@@ -32,7 +32,7 @@ const Navbar = () => {
     { id: "about", label: "About" },
     { id: "skills", label: "Skills" },
     { id: "achievements", label: "Achievements" },
-     { id: "experience", label: "Experience" },
+     { id: "work-experience", label: "Experience" },
     { id: "work", label: "Projects" },
     { id: "education", label: "Education" },
   ];
@@ -123,7 +123,7 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-4">
               <a
-                href="https://github.com/codingmastr"
+                href="https://github.com/Saurya29"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
@@ -131,7 +131,7 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="https://www.linkedin.com/in/tarun-kaushik-553b441a4"
+                href="http://linkedin.com/in/sauryaraj"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"

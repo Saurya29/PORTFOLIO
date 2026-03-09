@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
+import { motion } from 'framer-motion';
 import profileImage from '../../assets/pic1.jpg';
 
 const About = () => {
   return (
-    <section
+    <motion.section
       id="about"
       className="py-4 px-[7vw] md:px-[7vw] lg:px-[20vw] font-sans mt-16 md:mt-24 lg:mt-32"
+      initial={{ opacity: 0, y: 50 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.6 }}
+      viewport={{ once: true }}
     >
       <div className="flex flex-col-reverse md:flex-row justify-between items-center">
         {/* Left Side */}
@@ -29,8 +34,6 @@ const About = () => {
                 'Mernstack',
                 'Machine Learning',
                 'Deep Learning'
-              ,
-                
               ]}
               speed={100}
               eraseSpeed={50}
@@ -82,7 +85,7 @@ const About = () => {
           </Tilt>
         </div>
       </div>
-    </section>
+    </motion.section>
   );
 };
 
