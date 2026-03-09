@@ -205,11 +205,21 @@ export const SkillsInfo = [
   ];  
   export const workexperience = [
     {
-        
-      id: 3, title: "Research Intern",
-      description: "Spatio-Temporal Deep Learning for District-Level Wheat Yield Prediction using TFT and GNNs.",
-  
+      id: 1,
+      img: bitLogo, // or some other logo
+      company: "Zopper Insurance",
+      role: "Business Intelligence Intern",
+      date: "2024",
+      desc: "Developed business intelligence solutions and data visualization dashboards.",
+      tags: ["Business Intelligence", "Data Visualization", "Power BI"],
+    },
+    {
+      id: 2,
+      img: bitLogo,
+      company: "BIT Mesra",
+      role: "Research Intern",
+      date: "2024 - Present",
+      desc: "Spatio-Temporal Deep Learning for District-Level Wheat Yield Prediction using TFT and GNNs.",
       tags: ["TFT","GNN","PyTorch","Python"],
-    
     },
   ];
